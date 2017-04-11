@@ -5,7 +5,7 @@ import examples from '~/examples';
 class Overview extends React.Component {
 
   static navigationOptions = {
-    title: 'Choose an example!',
+    title: 'Examples',
     header: {
       style: { backgroundColor: '#0288d1' },
       tintColor: '#ffffff',
